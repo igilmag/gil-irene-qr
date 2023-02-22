@@ -1,0 +1,42 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--color-4);
+
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--color-2);  
+    
+}
+
+.card {
+    background-color: var(--color-1);
+    border-radius: 2em;
+    font-size: 15px;
+    size: 375px;
+}
+
+.card-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2em;
+}
+
+.class-header {
+    padding: 1em;
+}
+
+.body-article {
+    display: flex;
+    justify-content: center;
+    align-items: justify;
+    color: var(--color-3);
+   padding-bottom: 3em;
+}

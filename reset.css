@@ -1,0 +1,25 @@
+:root {
+
+   --color-1: hsl(0, 0%, 100%);
+   /* White*/
+   --color-2: hsl(212, 45%, 89%);
+   /*Light grey*/
+   --color-3: hsl(220, 15%, 55%);
+   /*Grayish blue*/
+   --color-4: hsl(218, 44%, 22%);
+   /*Dark blue*/
+}
+
+.body {
+    font-family: 'Outfit', sans-serif;
+}
+
+.body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
